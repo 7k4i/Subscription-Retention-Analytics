@@ -1,7 +1,7 @@
 # Subscription-Retention-Analytics
 
 ## 📌 Project Overview
-This project analyzes user retention, churn behavior, and revenue performance in a subscription-based product. 
+This project analyzes user retention, churn behavior, and revenue performance in a subscription-based product. \
 The goal is to understand user lifecycle patterns and identify opportunities to improve retention and reduce churn.
 
 ---
