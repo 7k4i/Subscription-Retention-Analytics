@@ -46,6 +46,7 @@ The dataset simulates a subscription-based platform and includes:
 
 ## 📊 Dashboard (Coming Soon)
 Dashboard will include:
+
 - Retention cohort analysis  
 - Churn trends  
 - Revenue breakdown  
@@ -55,3 +56,28 @@ Dashboard will include:
 
 ## 🚀 Insights (Coming Soon)
 Key findings and business recommendations will be added after analysis.
+
+---
+## 📌 Retro Case Study: User Engagement & Retention
+
+To apply this analytical framework to a real-world product, I explored how similar retention and engagement strategies could be applied to Retro, a social platform focused on memory sharing and meaningful interactions.
+
+### 🎯 Key Question
+How can Retro improve user retention and long-term engagement in a social product driven by interaction and content sharing?
+
+### 🔍 Key Hypotheses
+- Early user interaction (within the first few days) is critical for long-term retention  
+- Reciprocal engagement (comments, reactions) increases user stickiness  
+- Users who only consume content without interacting are more likely to churn  
+
+### 🧱 Analytical Approach
+Using a similar SQL-based framework:
+
+- Cohort analysis to track user retention over time  
+- Segmentation of users based on engagement level  
+- Identification of at-risk users based on inactivity  
+
+### 💡 Potential Recommendations
+- Strengthen early onboarding interactions to encourage engagement  
+- Increase reciprocal interaction through notifications or prompts  
+- Implement re-engagement strategies for inactive users  
