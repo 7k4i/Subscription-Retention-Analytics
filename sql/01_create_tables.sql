@@ -1,3 +1,6 @@
+-- Create tables for subscription analytics project
+-- Author: Kai Liao
+
 CREATE TABLE users (
     user_id INTEGER PRIMARY KEY,
     signup_date DATE NOT NULL,
