@@ -26,12 +26,22 @@ The dataset simulates a subscription-based platform and includes:
 
 ---
 
-## 🛠️ Methodology
-- Data cleaning and transformation using SQL  
-- Built cohort retention analysis using SQL window functions  
-- Performed churn analysis to identify at-risk users  
-- Developed user segmentation based on behavioral and revenue metrics  
-- Created an interactive dashboard using Tableau to visualize key insights    
+## 📊 Retention Analysis
+
+To understand user engagement over time, I conducted a cohort-based retention analysis.
+
+- Users were grouped into cohorts based on signup week  
+- Retention was defined as users returning and performing events (e.g., login, view)  
+- Weekly retention was calculated to measure how engagement declines over time  
+
+## Key Approach
+- Built cohort and activity tables using SQL  
+- Calculated time difference between signup and activity  
+- Aggregated retained users by cohort and time period  
+- Computed retention rate as retained users divided by cohort size  
+
+## Why This Matters
+Retention is a critical metric for subscription-based products, as it directly impacts long-term growth and revenue.
 
 ---
 
