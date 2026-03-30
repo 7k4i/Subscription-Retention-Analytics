@@ -34,13 +34,13 @@ To understand user engagement over time, I conducted a cohort-based retention an
 - Retention was defined as users returning and performing events (e.g., login, view)  
 - Weekly retention was calculated to measure how engagement declines over time  
 
-## Key Approach
+### Key Approach
 - Built cohort and activity tables using SQL  
 - Calculated time difference between signup and activity  
 - Aggregated retained users by cohort and time period  
 - Computed retention rate as retained users divided by cohort size  
 
-## Why This Matters
+### Why This Matters
 Retention is a critical metric for subscription-based products, as it directly impacts long-term growth and revenue.
 
 ---
